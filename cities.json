@@ -2976,6 +2976,14 @@
                         "right": "29.230"
                     }
                 },
+                "beirut_lebanon": {
+                    "bbox": {
+                        "top": "33.9237",
+                        "left": "35.4634",
+                        "bottom": "33.7921",
+                        "right": "35.5827"
+                    }
+                },
                 "damascus_syria": {
                     "bbox": {
                         "top": "33.805",
